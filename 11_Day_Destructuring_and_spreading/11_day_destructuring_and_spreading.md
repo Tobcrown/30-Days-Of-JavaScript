@@ -440,7 +440,7 @@ console.log(wholeNumbers)
 ```
 
 ```js
-const frontEnd = ['HTML', 'CSS', 'JS', 'React']
+const frontEnd = ['HTML', 'CSS', ', 'React']
 const backEnd = ['Node', 'Express', 'MongoDB']
 const fullStack = [...frontEnd, ...backEnd]
 
@@ -457,8 +457,8 @@ We can copy an object using a spread operator
 
 ```js
 const user = {
-  name:'Asabeneh',
-  title:'Programmer',
+  name:'input name',
+  title:'word press',
   country:'Finland',
   city:'Helsinki'
 }
